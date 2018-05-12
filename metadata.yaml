@@ -1,0 +1,31 @@
+_repo: Conf-d-ration-Balkanique_17561
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Perić, Živojin
+    aliases:
+    - Peric, Zivojin
+    - Peritch, Jivoin
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '7455'
+    url: http://www.gutenberg.org/2009/agents/7455
+description: ''
+gutenberg_bookshelf: FR Politique
+gutenberg_issued: '2006-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17561'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eastern question (Balkan)'
+- !lcc 'DR'
+- !lcsh 'Balkan Peninsula -- Politics and government'
+title: Confédération Balkanique
+url: http://www.gutenberg.org/ebooks/17561
